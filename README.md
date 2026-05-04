@@ -1,21 +1,19 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Siduja Perera</h1>
-<h3 align="center">Passionate Software Engineer  | Exploring the Boundless World of Technology</h3>
+<h3 align="center">Passionate Software Project Manager  | Exploring the Boundless World of Technology</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="sidujaperera" /> </p>
 
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently doing my studies on **Advanced AI & Software Engineering**
 
 - 🧑‍🎓 I’m a Graduate at **APIIT**
 
 - 💬 Ask me about **DevOps, Web Development and MachineLearning**
 
 - 📫 How to reach me **sidujaperera22@gmail.com**
-
-- ⚡ Fun fact **Call me Sidu**
 
 </td>
 <td width="50%" align="center">
